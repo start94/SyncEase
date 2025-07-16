@@ -1,4 +1,4 @@
-# 🔄 SyncEase – Sistema Intelligente di Sincronizzazione File
+# 🔄 SyncEase – Sistema intelligente di sincronizzazione file
 
 **Autore:** Raffaele Diomaiuto  
 **Licenza:** Apache 2.0
